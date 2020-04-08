@@ -1,0 +1,9 @@
+database:
+  development:
+    driver: "mysql"
+    host: "122.180.243.167"
+    port: 3306
+    user: "hospital_tourism"
+    password: "data@123"
+    dbname: "hospital_tourism"
+    sslmode: "disable"

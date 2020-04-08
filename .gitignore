@@ -1,0 +1,16 @@
+frontend_logic/node_modules
+frontend_logic/.nuxt
+frontend_logic/assets
+frontend_logic/components
+frontend_logic/layouts
+frontend_logic/middleware
+frontend_logic/pages
+frontend_logic/plugins
+frontend_logic/static
+frontend_logic/store
+frontend_logic/.editorconfig
+frontend_logic/.gitignore
+frontend_logic/nuxt.config.js
+frontend_logic/package-lock.json
+frontend_logic/package.json
+frontend_logic/readme.md
